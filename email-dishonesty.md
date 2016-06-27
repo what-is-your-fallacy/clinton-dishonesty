@@ -18,7 +18,7 @@ Evidence to the contrary:[-](http://www.nbcnews.com/news/us-news/guccifer-hacker
 Source: [-](https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/)<br>
 Evidence to the contrary:[-](http://www.nytimes.com/2016/05/26/us/politics/state-department-hillary-clinton-emails.html)
 
-> [I did not email any classified material to anyone on my email.](#classified)
+> I did not email any classified material to anyone on my email.
 
 Source: [-](https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/)<br>
 Evidence to the contrary:[-](http://thehill.com/blogs/ballot-box/presidential-races/265210-email-clinton-asked-adviser-to-send-secure-fax-by-email)
