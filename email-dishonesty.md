@@ -11,7 +11,7 @@ Evidence to the contrary: [-](https://web.archive.org/web/20160626172434/http://
 > "there were no security breaches."
 
 Source: [-](https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/)<br>
-Evidence to the contrary:(-)[http://www.nbcnews.com/news/us-news/guccifer-hacker-who-says-he-breached-clinton-server-pleads-guilty-n580186](-)[http://bigstory.ap.org/article/7006105d422740f0b4b8675c90f9a154/emails-key-security-features-disabled-clintons-server]
+Evidence to the contrary:[-](http://www.nbcnews.com/news/us-news/guccifer-hacker-who-says-he-breached-clinton-server-pleads-guilty-n580186)[-](http://bigstory.ap.org/article/7006105d422740f0b4b8675c90f9a154/emails-key-security-features-disabled-clintons-server)
 
 > "the laws and regulations in effect when I was secretary of state allowed me to use my email for work. That is undisputed."
 
